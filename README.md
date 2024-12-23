@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-- 🌟 Passionate Frontend Developer
+- 🌟 Passionate Full Stack Web Developer
 - 💻 Skilled in C++, JavaScript
 - 🌱 Learning new technologies every day
 
