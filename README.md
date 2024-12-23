@@ -1,26 +1,10 @@
 # Hi, I'm Siddhant Saxena! 🔥
-### Frontend Developer, Passionate Coder
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2N1MXd5bmZyYWZoejVuaGI3eGJhbGd3enhhM24yMjh0czZ1ZG1mZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner" width="800" height="auto">
-
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2N1MXd5bmZyYWZoejVuaGI3eGJhbGd3enhhM24yMjh0czZ1ZG1mZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner" width="100vw" height="auto">
 
 Welcome to my GitHub profile! 🚀
 
 - 🌟 Passionate Frontend Developer
-- 💻 Skilled in Java, C++, JavaScript
+- 💻 Skilled in C++, JavaScript
 - 🌱 Learning new technologies every day
 
-<!--
-**siddhantsaxena45/siddhantsaxena45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
