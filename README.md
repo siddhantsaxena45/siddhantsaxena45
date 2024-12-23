@@ -33,10 +33,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 💡 Dev Quote
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Mario" width="100">
-
 > 🎮 "The problem with object-oriented languages is they've got all this implicit environment that they carry around with them..."  
 > — Joe Armstrong
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Goomba" width="100">
 
