@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Siddhant Saxena! 🔥
+### Frontend Developer, Passionate Coder
+
+![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2N1MXd5bmZyYWZoejVuaGI3eGJhbGd3enhhM24yMjh0czZ1ZG1mZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+
+Welcome to my GitHub profile! 🚀
+
+- 🌟 Passionate Frontend Developer
+- 💻 Skilled in Java, C++, JavaScript
+- 🌱 Learning new technologies every day
 
 <!--
 **siddhantsaxena45/siddhantsaxena45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
