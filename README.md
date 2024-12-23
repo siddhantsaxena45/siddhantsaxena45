@@ -31,11 +31,12 @@ Welcome to my GitHub profile! 🚀
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
-
 ## 💡 Dev Quote
-> "The problem with object-oriented languages is they've got all this implicit environment that they carry around with them..."  
+
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Mario" width="100">
+
+> 🎮 "The problem with object-oriented languages is they've got all this implicit environment that they carry around with them..."  
 > — Joe Armstrong
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Goomba" width="100">
+
