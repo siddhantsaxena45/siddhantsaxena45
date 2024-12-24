@@ -34,9 +34,14 @@ Welcome to my GitHub profile! 🚀
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
-## 💡 Dev Quote
 
-> 🎮 "The problem with object-oriented languages is they've got all this implicit environment that they carry around with them..."  
-> — Joe Armstrong
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=siddhantsaxena45&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=siddhantsaxena45&icon=0&color=8)](https://visitcount.itsvg.in)
 
 
