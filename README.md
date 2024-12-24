@@ -37,4 +37,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhant-saxena-617286271/)
+<br>
 [![](https://visitcount.itsvg.in/api?id=siddhantsaxena45&icon=0&color=8)](https://visitcount.itsvg.in)
