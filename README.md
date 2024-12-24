@@ -14,7 +14,10 @@ Welcome to my GitHub profile! 🚀
 - 🎯 Driven by **taking risks**
 - 💻 Engineered by **determination**
 - ✨ Powered by **creativity**
-
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=siddhantsaxena45&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=siddhantsaxena45&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsaxena45&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhant-saxena-617286271/)
 
