@@ -11,12 +11,7 @@
 - 🎯 Driven by **taking risks**
 - 💻 Engineered by **determination**
 - ✨ Powered by **creativity**
-- ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siddhantsaxena45&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=siddhantsaxena45&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsaxena45&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=siddhantsaxena45&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,11 +22,36 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/React.js-123456?style=for-the-badge&logo=reactdotjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React.js-123456?style=for-the-badge&logo=reactdotjs&logoColor=white)
+<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
+---
+ 
+## 📊 GitHub Stats:
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhant-saxena-617286271/)
+### General Stats:
+![Commit Activity](https://github-readme-stats.vercel.app/api?username=siddhantsaxena45&show_icons=true&hide_border=true&count_private=true&theme=radical&hide_border=false)
+
+### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsaxena45&layout=compact&theme=radical&hide_border=false&langs_count=20)
+
+### 🔥 Streak Stats:
+![GitHub Streak](https://streak-stats.demolab.com/?user=siddhantsaxena45&theme=tokyonight&short_numbers=true)<br/>
+
+### Trophies:
+[![Trophies](https://github-profile-trophy.vercel.app/?username=siddhantsaxena45&theme=radical&row=1&column=3&margin-w=15&margin-h=15&hide_border=false)](https://github.com/siddhantsaxena45)
+
+### 📈 Contribution Graph
+[![SIDDHANT's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhantsaxena45&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)xh
+
+---
+
+## 📫 How to Reach Me:
+- ✉️ **Email**: siddhantsaxenaofficial@gmail.com
+- 🌐 **LinkedIn**: [Siddhant Saxena](https://www.linkedin.com/in/siddhant-saxena-617286271)
+- 🧑‍💻 **GitHub**: [@siddhantsaxena45](https://github.com/siddhantsaxena45)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
