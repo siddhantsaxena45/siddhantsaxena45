@@ -38,8 +38,6 @@
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=siddhantsaxena45&theme=tokyonight&short_numbers=true)<br/>
 
-### 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=siddhantsaxena45&theme=radical&row=1&column=3&margin-w=15&margin-h=15&hide_border=false)
 
 ### 📈 Contribution Graph
 ![SIDDHANT's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhantsaxena45&theme=tokyo-night)
