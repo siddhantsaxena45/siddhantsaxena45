@@ -1,5 +1,5 @@
 # Hi, I'm Siddhant Saxena! 
-
+![](https://komarev.com/ghpvc/?username=siddhantsaxena45)
 ## Welcome to my GitHub profile! 🚀
 - 🌟 Passionate Full Stack Web Developer
 - 💻 Skilled in C++, JavaScript
