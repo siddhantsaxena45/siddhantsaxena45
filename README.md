@@ -35,9 +35,6 @@
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsaxena45&layout=compact&theme=radical&hide_border=false&langs_count=20)
 
-### 🔥 Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=siddhantsaxena45&theme=tokyonight&short_numbers=true)<br/>
-
 
 ### 📈 Contribution Graph
 ![SIDDHANT's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhantsaxena45&theme=tokyo-night)
