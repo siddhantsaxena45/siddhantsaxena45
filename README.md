@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=siddhantsaxena45)
 ## Welcome to my GitHub profile! 🚀
 - 🌟 Passionate Full Stack Web Developer
-- 💻 Skilled in C++, JavaScript
+- 💻 Skilled in C++ ,Python ,JavaScript
 - 🌱 Learning new technologies every day
   
 ## About Me
