@@ -45,8 +45,6 @@ focus: Building scalable & intelligent systems
 + 📈 EMA-based Influence Scoring Model
 + ⚡ Real-time features with Socket.io
 <!-- ================= STATS ================= -->
-📊 GitHub Analytics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddhantsaxena45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsaxena45&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantsaxena45&theme=tokyo-night&hide_border=true" /> </p>
 <!-- ================= ACHIEVEMENTS ================= -->
