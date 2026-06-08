@@ -1,71 +1,253 @@
-<!-- ================= HEADER ================= -->
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Siddhant+Saxena;Full+Stack+Developer;AI+Builder;Problem+Solver;Always+Learning+🚀" />
-</h1>
+# 🚀 Siddhant Saxena
 
-<h3 align="center">⚡ Turning Ideas into Scalable Systems</h3>
+### Full Stack Developer • AI Enthusiast • Problem Solver
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhantsaxena45&label=Profile%20views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/siddhantsaxena45?style=for-the-badge&color=blue" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+and+ML+Enthusiast;Building+Projects+That+Matter;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```cpp
+class Siddhant {
+public:
+    string education = "B.Tech CSE";
+    string role = "Software Developer";
+
+    vector<string> interests = {
+        "Artificial Intelligence",
+        "Full Stack Development"
+    };
+
+    string currentFocus = "Building impactful products";
+};
+```
+
+- 🎓 B.Tech Computer Science Student
+- 💻 Passionate about Software Development
+- 🤖 Exploring AI & Machine Learning
+- 🚀 Building Full Stack Applications
+- 🌱 Learning DSA & System Design
+- ⚡ Open to Internships & Collaborations
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+# 🚀 Featured Projects
 
-## 🧠 About Me
+## 🎤 AI-Proctor
+
+Industry-grade AI Interview Platform
+
+### Features
+
+- Real-time Vision Proctoring
+- Adaptive Technical Interviews
+- Whisper Voice Transcription
+- AI Evaluation System
+- Candidate Performance Analytics
+
+### Stack
+
+```text
+Next.js
+FastAPI
+OpenAI
+Whisper
+Computer Vision
+```
+
+---
+
+## 📚 DocMind
+
+Document Intelligence Platform
+
+### Features
+
+- AI-Powered Search
+- RAG Pipelines
+- Document Understanding
+- Knowledge Extraction
+- Intelligent Summaries
+
+### Stack
+
+```text
+Next.js
+Python
+LangChain
+Gemini
+Vector Database
+```
+
+---
+
+## 🌐 Zocial
+
+Professional Social Ecosystem
+
+### Features
+
+- AI Recommendations
+- Professional Networking
+- Social Engagement
+- Reputation System
+
+### Stack
+
+```text
+MERN Stack
+Python
+Gemini API
+```
+
+---
+
+## 🚑 Intelligent Ambulance Routing System
+
+Smart Healthcare Routing Platform
+
+### Features
+
+- Hospital Capacity Tracking
+- Emergency Route Optimization
+- Smart Bed Allocation
+- Real-Time Routing Decisions
+
+---
+
+## 📊 GitHub Stats
 
 
-name: Siddhant Saxena
-education: B.Tech CSE @ JIIT (CGPA: 9.09/10)
-role: Full Stack Developer | AI Engineer
-focus: Building scalable & intelligent systems
-+ 🧠 DNA → Data Structures & Algorithms
-+ 💡 Curiosity Driven Developer
-+ 🎯 Risk Taker & Problem Solver
-+ ⚡ Logic First Mindset
-+ ✨ Creativity + Execution = Impact
-<!-- ================= TECH STACK ================= -->
-⚙️ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,js,mysql,react,nodejs,express,fastapi,mongodb,postgres,html,css,git,github,postman&perline=8" /> </p>
-<!-- ================= PROJECTS ================= -->
-🚀 Featured Projects
-🧠 DocMind — AI Research Assistant
-+ Multi-agent system using FastAPI + CrewAI
-+ 🔗 Automated fact-checking (↓ 90% manual effort)
-+ 📊 Knowledge Graph Visualization Engine
-🎯 AI-Proctor — Interview Platform
-+ MERN + FastAPI Microservices Architecture
-+ 👁️ Real-time AI Proctoring System
-+ 🎤 Whisper-based reasoning capture
-🌐 Zocial — Career Intelligence Platform
-+ MERN + Python Analytics Engine
-+ 📈 EMA-based Influence Scoring Model
-+ ⚡ Real-time features with Socket.io
-<!-- ================= STATS ================= -->
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantsaxena45&theme=tokyo-night&hide_border=true" /> </p>
-<!-- ================= ACHIEVEMENTS ================= -->
-🏆 Achievements
-+ 🧩 Solved 300+ DSA Problems
-+ 🧠 Built Real-World AI Systems
-+ 🎥 Tech Content Creator (ZEGOCLOUD Collab)
-+ 🩸 Led NSS Blood Donation Drive (150+ donors)
-<!-- ================= CONNECT ================= -->
-🌐 Let's Connect
-<p align="center"> <a href="mailto:siddhantsaxenaofficial@gmail.com"> <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail"> </a> <a href="https://www.linkedin.com/in/siddhant-saxena-617286271"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/siddhantsaxena45"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"> </a> </p>
-<!-- ================= QUOTE ================= -->
-⚡ Dev Philosophy
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
-<!-- ================= CODE ================= -->
-💻 Developer Mindset
-while(alive) {
-    learn();
-    build();
-    break_limits();
-    repeat();
-}
-<!-- ================= GIF ================= --> <p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/> </p>
-<h3 align="center">⭐ Building the future, one commit at a time</h3> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantsaxena45&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsaxena45&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantsaxena45&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantsaxena45&theme=tokyo-night" />
+
+</div>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/siddhantsaxena45/siddhantsaxena45/output/github-contribution-grid-snake-dark.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/siddhantsaxena45/siddhantsaxena45/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/siddhantsaxena45/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Structures
+- System Design
+- Machine Learning
+- Backend Scalability
+- Cloud Computing
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/siddhant-saxena-617286271/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/siddhantsaxena45">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:siddhantsaxenaofficial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=siddhantsaxena45&style=for-the-badge)
+
+### ⭐ Code • Learn • Build • Repeat ⭐
+
+</div>
