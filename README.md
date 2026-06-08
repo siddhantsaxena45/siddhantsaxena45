@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Siddhant Saxena
+# Siddhant Saxena
 
 ### Full Stack Developer • AI Enthusiast • Problem Solver
 
