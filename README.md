@@ -41,19 +41,19 @@ public:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### Databases
@@ -65,7 +65,7 @@ public:
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
