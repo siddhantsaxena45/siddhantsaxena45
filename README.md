@@ -158,14 +158,19 @@ Smart Healthcare Routing Platform
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhantsaxena45&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsaxena45&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhantsaxena45&theme=tokyonight"/>
 
+<br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddhantsaxena45&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddhantsaxena45&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddhantsaxena45&theme=tokyonight"/>
+
+</div>
 
 ---
 
