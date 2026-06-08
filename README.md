@@ -174,27 +174,6 @@ Smart Healthcare Routing Platform
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantsaxena45&theme=tokyonight" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantsaxena45&theme=tokyo-night" />
-
-</div>
-
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
